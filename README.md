@@ -17,16 +17,6 @@
 
 ## 🛠️ Tech Stack
 🎨 Frontend
-React.js ⚛️
-CSS 🎨
-⚙️ Backend
-Node.js 🟢
-Express.js 🚀
-🔒 Authentication & Security
-JWT (JSON Web Token) 🪪
-Bcrypt.js 🔐
-📧 Email Service
-Node Mailer ✉️
 
 ### 🎨 Frontend
 - React.js 
@@ -45,12 +35,12 @@ Node Mailer ✉️
 ## 🔄 Project Workflow
 ### 👤 Sign Up
 - User enters username, email, and password
-- Password is hashed before storing in database 🔒
-- User account is created successfully ✅
+- Password is hashed before storing in database 
+- User account is created successfully 
 ### 🔑 Sign In
 - User logs in using email and password
-- Credentials are verified ✅
-- JWT token is generated after successful login 🎟️
+- Credentials are verified 
+- JWT token is generated after successful login 
 - Token is used for authentication and protected routes 🛡️
 ### 🔁 Forgot Password
 - User enters registered email 📩
