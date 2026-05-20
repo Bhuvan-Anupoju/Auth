@@ -2,7 +2,7 @@
 #### 🔰Overview
 
 - A full-stack Authentication System built from scratch with secure user authentication and password recovery functionality. This project includes Sign Up, Sign In, Forgot Password with OTP verification, JWT-based authentication, and email services using Node Mailer.
-- ## ✨ Features
+ ## ✨ Features
 
 -  User Registration (Sign Up)
 -  User Login (Sign In)
@@ -16,7 +16,7 @@
 -  Email Sending using Node Mailer
 
 ## 🛠️ Tech Stack
-🎨 Frontend
+
 
 ### 🎨 Frontend
 - React.js 
